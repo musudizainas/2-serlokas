@@ -8,8 +8,8 @@
   -kas ir kodel daro
 -iterpt nuoroda i dizaina
 - [ x] atlikt dizaino analize
-- [ ] surasyti HTML
-- [ ] issikirp nuotrauka ir jas **panaudot**
+- [ x] surasyti HTML
+- [x ] issikirp nuotrauka ir jas **panaudot**
  - panaudot reliatyvius keliua
 - [ ] aprasyti stilius
 
